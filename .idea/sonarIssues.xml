@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/androidTest/java/com/personal/dominykasviecas/popularmovies/ExampleInstrumentedTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/androidTest/java/com/personal/dominykasviecas/popularmovies/ExampleInstrumentedTest2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/androidTest/java/com/personal/dominykasviecas/popularmovies/ui/landing/FiftyShadesTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/androidTest/java/com/personal/dominykasviecas/popularmovies/ui/landing/HundredShadesTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/androidTest/java/com/personal/dominykasviecas/popularmovies/ui/landing/SixtyShadesTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/androidTest/java/com/personal/dominykasviecas/popularmovies/ui/landing/SpinnerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/data/Movie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/data/MovieRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/data/MovieService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/data/TMDBMovieRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/data/TestDataMovieRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/data/TestMovieRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/data/movie/TestDataMovieRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/di/ApplicationComponent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/di/ApplicationModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/di/TMDBModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/di/ViewModelFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/di/ViewModelKey.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/di/ViewModelModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/feature/landing/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/feature/landing/MovieListViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/feature/moviedetail/MovieDetailActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/landing/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/landing/Movie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/landing/MovieAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/landing/MovieFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/landing/MovieFilterAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/landing/MovieListViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/landing/MovieRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/landing/MovieResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/landing/MovieService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/landing/MovieViewHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/landing/MovieViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/landing/RetrofitHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/landing/TMDBMovieRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/ui/landing/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/ui/landing/MovieAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/ui/landing/MovieListViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/ui/landing/MovieModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/ui/landing/MovieViewHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/ui/landing/OnMovieSelectedListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/ui/landing/TMDBModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/ui/moviedetail/MoiveDetailActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/ui/moviedetail/MovieDetailActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/ui/moviedetail/MovieDetailViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/util/AbsentLiveData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/util/ItemClickSupport.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/util/RetrofitHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/util/TMDBResponseConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/util/ViewUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/util/views.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/personal/dominykasviecas/popularmovies/util/views/InProgressView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_movie_detail.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/grid_main_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/in_progress_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/list_item_grid_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/listitem_gridmain.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/menu/menu_movie_grid.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/array.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/ids.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/test/java/com/personal/dominykasviecas/popularmovies/feature/landing/MovieListViewModelTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/test/java/com/personal/dominykasviecas/popularmovies/feature/moviedetail/MovieDetailViewModelTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/test/java/com/personal/dominykasviecas/popularmovies/ui/landing/MovieListViewModelTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/test/java/com/personal/dominykasviecas/popularmovies/ui/moviedetail/MovieDetailViewModelTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoCommons/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoCommons/src/main/java/com/harbortouch/echocommons/utils/SerialHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/androidTest/java/com/harbortouch/echopro/ui/tests/TestAfterLogin.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/androidTest/java/com/harbortouch/echopro/ui/tests/UserPin.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/main/java/com/harbortouch/echopro/MainApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/main/java/com/harbortouch/echopro/domain/callback/BasePaxResponseCallback.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/main/java/com/harbortouch/echopro/ui/fragments/order/ticketgrid/TicketGridFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/main/java/com/harbortouch/echopro/ui/fragments/order/ticketgrid/TicketGridViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/main/java/com/harbortouch/echopro/ui/fragments/order/ticketgrid/di/TicketGridModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/main/java/com/harbortouch/echopro/ui/fragments/order/ticketgrid/process/PageTicketDataSourceProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/main/java/com/harbortouch/echopro/ui/fragments/order/ticketgrid/process/TicketServiceProcess.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/main/java/com/harbortouch/echopro/ui/settings/scheduledpricing/SettingScheduleGroupDetailViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/main/java/com/harbortouch/echopro/utils/modifier/quantity/ModifierQuantityUpdateProcess.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/main/java/com/harbortouch/echopro/utils/ticket/TicketCalculationsObserver.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/main/res/layout/ticket_grid_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/test/java/com/harbortouch/echopro/ui/fragments/order/ticketgrid/TicketGridViewModelTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/test/java/com/harbortouch/echopro/ui/fragments/order/ticketgrid/TicketGridViewModelTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/test/java/com/harbortouch/echopro/utils/modifier/quantity/ModifierQuantityUpdateProcessTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoPro/src/test/java/com/harbortouch/echopro/utils/modifier/quantity/ModifierQuantityUpdateProcessTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoProService/src/main/java/com/harbortouch/echoproservice/ChangeEchoProDbService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoProService/src/main/java/com/harbortouch/echoproservice/ReadService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hbr-android-client/Harbortouch/EchoProService/src/main/java/com/harbortouch/echoproservice/model/Item.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/margin_padding_size_small">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/movie_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/margin_padding_size_medium"
+            android:textSize="@dimen/text_size_xxlarge"
+            tools:text="Hunger Games" />
+
+        <ImageView
+            android:id="@+id/movie_poster"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:paddingEnd="@dimen/margin_padding_size_medium"
+            app:layout_constraintTop_toBottomOf="@id/movie_title"
+            android:contentDescription="@string/movie_poster" />
+
+        <TextView
+            android:id="@+id/movie_vote_average"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableEnd="@drawable/ic_stars_black_36dp"
+
+            android:textSize="@dimen/text_size_xlarge"
+            app:layout_constraintTop_toBottomOf="@id/movie_title"
+            app:layout_constraintEnd_toEndOf="parent"
+            tools:text="7.2" />
+
+        <TextView
+            android:id="@+id/movie_release_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_size_xlarge"
+            app:layout_constraintStart_toEndOf="@id/movie_poster"
+            app:layout_constraintTop_toBottomOf="@id/movie_title"
+            tools:text="2017" />
+
+        <TextView
+            android:id="@+id/movie_overview"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toEndOf="@id/movie_poster"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/movie_release_date"
+            android:textSize="@dimen/text_size_medium"
+            tools:text="Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death." />
+
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </android.support.constraint.ConstraintLayout>
+
+</ScrollView>

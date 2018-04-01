@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="list_item_grid_main_content_description">Movie poster</string>
+    <string name="movie_filter">Movie Filter</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="movie_poster">Movie Poster</string>
+</resources>
